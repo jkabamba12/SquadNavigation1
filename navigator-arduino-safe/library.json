@@ -1,0 +1,16 @@
+{
+  "name": "Navigator",
+  "keywords": "navigator, driver, motor, controller",
+  "description": "Library for dual motor navigation",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/mcc-robotics/navigator.git"
+  },
+  "frameworks": "arduino",
+  "platforms":
+  [
+    "teensy",
+    "atmelavr"
+  ]
+}

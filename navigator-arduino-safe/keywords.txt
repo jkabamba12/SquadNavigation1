@@ -1,0 +1,40 @@
+#######################################
+# Syntax Coloring Map For Navigator
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+EncoderDriver			KEYWORD1
+Navigator				KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init					KEYWORD2
+achievedDistanceGoal	KEYWORD2
+calibrate				KEYWORD2
+driveStraight			KEYWORD2
+getActualRPM			KEYWORD2
+getDistanceTraveled		KEYWORD2
+getGoalDistance			KEYWORD2
+getGoalVelocity			KEYWORD2
+getVelocity				KEYWORD2
+isStopped				KEYWORD2
+setVelocity				KEYWORD2
+spin					KEYWORD2
+stop					KEYWORD2
+turn					KEYWORD2
+update					KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+LEFT_ENCODER			LITERAL1
+MICROS_PER_SECOND		LITERAL1
+RIGHT_ENCODER			LITERAL1
+SAMPLE_RATE_US			LITERAL1
+SECONDS_PER_MINUTE		LITERAL1

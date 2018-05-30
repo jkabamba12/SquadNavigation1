@@ -1,0 +1,12 @@
+{
+  "name": "Navigator",
+  "keywords": "navigator, encoder, quadrature",
+  "description": "Navigation control for a robot using various algorithms",
+  "version": "1.0",
+  "authors": {
+    "name": "Geoff Berl",
+    "url": "http://www.geoffberl.com"
+  },
+  "frameworks": "arduino",
+  "platforms": "*"
+}
